@@ -2,8 +2,8 @@
 //  TetrisWell.swift
 //  ARTetris
 //
-//  Created by Yuri Strot on 6/29/17.
-//  Copyright © 2017 Exyte. All rights reserved.
+//  Created by 229Studio on 6/17/19.
+//  Copyright © 2019 Ray Wenderlich. All rights reserved.
 //
 
 /** Tetris well model */
